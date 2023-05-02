@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_0.00</name>
+   <tag></tag>
+   <elementGuidId>a557c4dd-a9d0-42a4-8f19-779bc5181d2c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping:'])[1]/following::span[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ac24bb7-763e-49fc-9b3f-197456b47204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nobr</value>
+      <webElementGuid>eb1fd42b-7fc8-4620-bd47-5a14c45797b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                    0.00
+                                </value>
+      <webElementGuid>4a66b75a-91e8-4c74-bebe-cbbb5ec6d713</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;master-wrapper-page&quot;]/div[@class=&quot;master-wrapper-content&quot;]/div[@class=&quot;master-wrapper-main&quot;]/div[@class=&quot;center-1&quot;]/div[@class=&quot;page order-details-page&quot;]/div[@class=&quot;page-body&quot;]/div[@class=&quot;total-info&quot;]/table[@class=&quot;cart-total&quot;]/tbody[1]/tr[2]/td[@class=&quot;cart-total-right&quot;]/span[@class=&quot;nobr&quot;]</value>
+      <webElementGuid>2b78d330-d513-4896-8810-65e5cc995834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping:'])[1]/following::span[1]</value>
+      <webElementGuid>5a6b1f8b-3bc8-4437-acac-c8e19c8bcac5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sub-Total:'])[1]/following::span[3]</value>
+      <webElementGuid>e8ecb659-d2d6-4ea5-b38a-581a1214dfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax:'])[1]/preceding::span[1]</value>
+      <webElementGuid>3c40ed19-a29f-4e6e-a538-abe5c4239494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order Total:'])[1]/preceding::span[3]</value>
+      <webElementGuid>d3156f9b-c805-4f1f-9f17-1482c4e85899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='0.00']/parent::*</value>
+      <webElementGuid>58ccd8c4-1e6c-4330-b50d-a20976f117e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/span</value>
+      <webElementGuid>7d808ffa-cfdf-491d-807c-543add385049</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '
+                                    0.00
+                                ' or . = '
+                                    0.00
+                                ')]</value>
+      <webElementGuid>d9083041-eb35-471f-b95e-7ba453b1c7f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

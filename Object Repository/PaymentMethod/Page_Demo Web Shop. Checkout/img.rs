@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>4b7fbafd-c118-4c9c-9366-3e56c959f860</elementGuidId>
+   <imagePath>C:\Users\varshini.cs\Desktop\CredCard.jpg</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>C:\Users\varshini.cs\Desktop\CredCard.jpg</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Credit Card&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-payment-method-load']/div/div/ul/li[3]/div/div/label/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>e179a8c9-788f-477f-9985-5982d181c8f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://demowebshop.tricentis.com/plugins/Payments.Manual/logo.jpg</value>
+      <webElementGuid>d5291f98-d6c1-4484-928e-93ca624b776b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Credit Card</value>
+      <webElementGuid>4b984fca-04b1-4f22-ae28-c72011dec37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-payment-method-load&quot;)/div[@class=&quot;checkout-data&quot;]/div[@class=&quot;section payment-method&quot;]/ul[@class=&quot;method-list&quot;]/li[3]/div[@class=&quot;method-name&quot;]/div[@class=&quot;payment-logo&quot;]/label[1]/img[1]</value>
+      <webElementGuid>0c643d5e-c080-482d-a679-637920d3c827</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-payment-method-load']/div/div/ul/li[3]/div/div/label/img</value>
+      <webElementGuid>dca71872-da8c-4ee6-aae2-546ca0d95a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Credit Card']</value>
+      <webElementGuid>bcd0a273-5cfd-4006-9bd3-e074d73c3bd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/label/img</value>
+      <webElementGuid>9e9ed58c-319d-4256-bb3a-2cf6c2401478</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://demowebshop.tricentis.com/plugins/Payments.Manual/logo.jpg' and @alt = 'Credit Card']</value>
+      <webElementGuid>76bb1a91-22cd-473b-9111-13624c6b0f5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

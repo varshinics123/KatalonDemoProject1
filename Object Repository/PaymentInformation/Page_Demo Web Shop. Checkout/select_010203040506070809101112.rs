@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_010203040506070809101112</name>
+   <tag></tag>
+   <elementGuidId>b90148ad-68b9-4957-afcb-df5abf1bb146</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#ExpireMonth</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='ExpireMonth']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9e0177db-c8d3-41fa-8a66-5a14387f79d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ExpireMonth</value>
+      <webElementGuid>836b2db0-f76b-4480-b628-48ebf8146760</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>ExpireMonth</value>
+      <webElementGuid>45ff33f1-2693-49f0-b8c0-45badff8611d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+</value>
+      <webElementGuid>cf9ff5ac-c3dc-4daf-a236-6ba8f629565a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ExpireMonth&quot;)</value>
+      <webElementGuid>57ce25a2-456c-4445-8a59-8a3c3c757fdb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ExpireMonth']</value>
+      <webElementGuid>8820fefe-7388-4d44-95be-23a72b27941d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-payment-info-load']/div/div/div/table/tbody/tr[4]/td[2]/select</value>
+      <webElementGuid>709661bb-01af-4478-8aa2-def1b8f4df32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiration date'])[1]/following::select[1]</value>
+      <webElementGuid>3575dfe0-940e-47b0-98ae-189ba26e2ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Card code'])[1]/preceding::select[2]</value>
+      <webElementGuid>b050b1d9-a54d-47cb-8e82-eaa94517ebaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[4]/td[2]/select</value>
+      <webElementGuid>4016849f-eabe-4550-bcd2-dc1e15dea675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ExpireMonth' and @name = 'ExpireMonth' and (text() = '01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+' or . = '01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+')]</value>
+      <webElementGuid>cee7acae-ab50-4c35-aebe-8ce47b999243</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

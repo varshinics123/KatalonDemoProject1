@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_273.00</name>
+   <tag></tag>
+   <elementGuidId>19481426-ecd6-4cb4-bae6-a409f767d15a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.product-price.order-total > strong</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-confirm-order-load']/div/div[2]/div/form/div[2]/div[2]/div/table/tbody/tr[4]/td[2]/span/span/strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>6695725b-cd7b-44d8-bbac-f16d1ba9f52f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>273.00</value>
+      <webElementGuid>4c63c28d-b121-43fb-89e0-4cc810a542e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-confirm-order-load&quot;)/div[@class=&quot;checkout-data&quot;]/div[@class=&quot;order-summary-body&quot;]/div[@class=&quot;order-summary-content&quot;]/form[1]/div[@class=&quot;cart-footer&quot;]/div[@class=&quot;totals&quot;]/div[@class=&quot;total-info&quot;]/table[@class=&quot;cart-total&quot;]/tbody[1]/tr[4]/td[@class=&quot;cart-total-right&quot;]/span[@class=&quot;nobr&quot;]/span[@class=&quot;product-price order-total&quot;]/strong[1]</value>
+      <webElementGuid>2058bcd6-fdf1-41d3-b1bc-0228a9c1d9c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-confirm-order-load']/div/div[2]/div/form/div[2]/div[2]/div/table/tbody/tr[4]/td[2]/span/span/strong</value>
+      <webElementGuid>af61872f-4c9d-4c72-b712-731bab5a6fc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[4]/following::strong[1]</value>
+      <webElementGuid>f41c2216-3731-4a81-8398-f91d84f7a927</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax:'])[1]/following::strong[1]</value>
+      <webElementGuid>7b64033d-1241-4cd3-bf43-e3c77c184203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='«'])[5]/preceding::strong[1]</value>
+      <webElementGuid>317b7413-1a5b-41e4-a7cb-58bf8526059a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submitting order information...'])[1]/preceding::strong[1]</value>
+      <webElementGuid>9a0e6861-3310-4da9-b5f5-26321fb7903b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/strong</value>
+      <webElementGuid>135c2c04-3bd7-44cf-bb88-ef7b2b8a32b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = '273.00' or . = '273.00')]</value>
+      <webElementGuid>3ae2fba6-2965-453b-8feb-842aecdc81c2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

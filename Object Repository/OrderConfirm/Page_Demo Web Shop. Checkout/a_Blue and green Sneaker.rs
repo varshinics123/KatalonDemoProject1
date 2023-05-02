@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Blue and green Sneaker</name>
+   <tag></tag>
+   <elementGuidId>41df4966-ba5d-4a99-b7f3-cb6ea145422f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-confirm-order-load']/div/div[2]/div/form/table/tbody/tr[2]/td[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8ba84b82-00cc-4549-bedb-199fe1b9d93e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/blue-and-green-sneaker</value>
+      <webElementGuid>9cdc386b-9746-43de-9ef6-1b2b78115de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>fd8d65df-95ea-4b86-9283-dfec9c0c618d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Blue and green Sneaker</value>
+      <webElementGuid>2aa52cfb-8002-47eb-8538-0e5a859f354f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-confirm-order-load&quot;)/div[@class=&quot;checkout-data&quot;]/div[@class=&quot;order-summary-body&quot;]/div[@class=&quot;order-summary-content&quot;]/form[1]/table[@class=&quot;cart&quot;]/tbody[1]/tr[@class=&quot;cart-item-row&quot;]/td[@class=&quot;product&quot;]/a[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>0ae92491-1437-4ccb-8304-dd39223be59e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-confirm-order-load']/div/div[2]/div/form/table/tbody/tr[2]/td[2]/a</value>
+      <webElementGuid>a4df7a68-5e2e-48e7-817f-2c5679de6b82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Blue and green Sneaker')])[3]</value>
+      <webElementGuid>136c44ff-63df-4fa0-985a-71f41dee61af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Total:'])[1]/following::a[1]</value>
+      <webElementGuid>3d93f918-309a-44dc-8eac-5cfb95a5df03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty.:'])[1]/following::a[1]</value>
+      <webElementGuid>ae78a970-cd87-4872-88d3-2d2452dd50a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size: 8Color: Green'])[2]/preceding::a[1]</value>
+      <webElementGuid>fd288789-ce7d-458b-8598-83162292fe36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Price:'])[2]/preceding::a[1]</value>
+      <webElementGuid>4891c332-34f9-4290-9ee7-57006454be64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/blue-and-green-sneaker')])[5]</value>
+      <webElementGuid>d0dfd8c2-4d6b-4528-9563-a96515a5a021</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[2]/a</value>
+      <webElementGuid>f421be7d-cda1-43f2-ba91-b0251ed21810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/blue-and-green-sneaker' and (text() = 'Blue and green Sneaker' or . = 'Blue and green Sneaker')]</value>
+      <webElementGuid>f47abba1-38d1-405d-a43c-215d3e4af057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

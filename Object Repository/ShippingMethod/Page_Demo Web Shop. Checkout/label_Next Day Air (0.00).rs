@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Next Day Air (0.00)</name>
+   <tag></tag>
+   <elementGuidId>deb06c8d-5710-4665-845d-0b9f2e355bfb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout-shipping-method-load']/div/div/ul/li[2]/div/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>f50fd42b-bb8b-4962-ad90-c8127ad3dcf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>shippingoption_1</value>
+      <webElementGuid>f022abf1-c84f-4815-ad8d-81ba977c46c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next Day Air (0.00)</value>
+      <webElementGuid>036f824d-1539-4758-b622-40c3c07d08d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout-shipping-method-load&quot;)/div[@class=&quot;checkout-data&quot;]/div[@class=&quot;section shipping-method&quot;]/ul[@class=&quot;method-list&quot;]/li[2]/div[@class=&quot;method-name&quot;]/label[1]</value>
+      <webElementGuid>eeee490c-5bc0-4d52-b8f7-16b41bba015d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout-shipping-method-load']/div/div/ul/li[2]/div/label</value>
+      <webElementGuid>9894ccde-9c8d-4613-b46d-1e2f13f97ad9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ground (0.00)'])[1]/following::label[1]</value>
+      <webElementGuid>0495f61f-599d-4c1d-be36-152c693ee325</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shipping method'])[1]/following::label[2]</value>
+      <webElementGuid>8aead4bd-6cab-4309-843a-f9b4fea5b1ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The one day air shipping'])[1]/preceding::label[1]</value>
+      <webElementGuid>0cd53e9c-f6f8-4a3f-85a1-c3e4b3b0f370</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The two day air shipping'])[1]/preceding::label[2]</value>
+      <webElementGuid>6311ad65-e1a2-428c-950d-29e6f9cdc882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next Day Air (0.00)']/parent::*</value>
+      <webElementGuid>0433c96e-2a43-4d95-8a31-3bb766db36f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/label</value>
+      <webElementGuid>6c63d599-9c67-4006-9c71-a0bb00aac6bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Next Day Air (0.00)' or . = 'Next Day Air (0.00)')]</value>
+      <webElementGuid>8694e600-7eae-4c89-b610-cdc7af6eeb49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
