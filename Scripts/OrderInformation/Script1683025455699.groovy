@@ -65,3 +65,5 @@ if (GlobalVariable.GlobalTotal == Total) {
 
 WebUI.click(findTestObject('Object Repository/OrderInformation/Page_Demo Web Shop. Order Details/a_PDF Invoice'))
 
+WebUI.closeBrowser()
+
